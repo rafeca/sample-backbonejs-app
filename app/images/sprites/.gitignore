@@ -1,0 +1,32 @@
+# This folder is the place to store the application icons in sprites
+#
+# To create a sprite called `actions`, just create a folder with the same name
+# and put all the images inside:
+#
+#     actions
+#       |- create.png
+#       |- delete.png
+#       |- ...
+#
+# Then, to include one of the icons inside a custom CSS rule, add the following
+# code to a SASS file:
+#
+#     @import "sprites/actions/*.png"
+#
+#     .create-button
+#       display: block
+#       @include actions-sprite(create)
+#       height: actions-sprite-height(create)
+#       width: actions-sprite-width(create)
+#
+#
+# Additionally, you can just make compass generate all the CSS classes for you,
+# by doing the following:
+#
+#     @import "sprites/actions/*.png";
+#     @include all-actions-sprites;
+#
+# (this will generate the classes `actions-create`, `actions-delete`, ...)
+#
+#
+# For more info about Compass sprites visit: http://compass-style.org/help/tutorials/spriting/
