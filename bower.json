@@ -6,7 +6,7 @@
     "underscore": "~1.4.4",
     "zepto": "~1.0.0",
     "backbone": "~1.0.0",
-    "handlebars.js": "1.0.0-rc.3",
+    "handlebars.js": "~1.0.0",
 
     "chai": "~1.7.0",
     "mocha": "~1.11.0",
