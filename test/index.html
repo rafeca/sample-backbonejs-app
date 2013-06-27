@@ -7,6 +7,7 @@
 </head>
 <body>
     <div id="mocha"></div>
+    <div id="test-placeholder" style="display: none"></div>
 
     <script src="components/mocha/mocha.js"></script>
     <script src="components/chai/chai.js"></script>
@@ -36,7 +37,8 @@
     <!-- spec files -->
     <script>
     require([
-      'spec/router.js'
+      'spec/router.js',
+      'spec/views/index.js'
     ], function () {
       mocha.run();
     });

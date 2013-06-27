@@ -8,9 +8,9 @@
     "backbone": "~1.0.0",
     "handlebars.js": "~1.0.0",
 
-    "chai": "~1.7.0",
+    "chai": "~1.6.0",
     "mocha": "~1.11.0",
-    "sinon": "http://sinonjs.org/releases/sinon-1.7.1.js"
+    "sinon": "http://sinonjs.org/releases/sinon-1.7.3.js"
   },
   "devDependencies": {}
 }

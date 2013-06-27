@@ -19,7 +19,7 @@ define([
       viewMock.verify();
     });
 
-    it('should render Index when loading to any random URL', function () {
+    it('should render Index when loading any random URL', function () {
       var viewMock = sinon.mock(IndexView.prototype);
       viewMock.expects('render').once();
 
