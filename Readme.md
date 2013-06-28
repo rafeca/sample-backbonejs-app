@@ -1,4 +1,4 @@
-# Sample Backbone.js web app
+# Sample Backbone.js web app [![Build Status](https://travis-ci.org/rafeca/sample-backbonejs-app.png?branch=master)](https://travis-ci.org/rafeca/sample-backbonejs-app)
 
 ## Requirements
 
