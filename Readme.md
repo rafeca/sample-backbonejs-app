@@ -1,4 +1,4 @@
-# Sample FirefoxOS app
+# Sample Backbone.js web app
 
 ## Requirements
 
