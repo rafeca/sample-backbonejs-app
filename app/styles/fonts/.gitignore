@@ -1,7 +1,7 @@
 # Add your custom fonts here. To use them in your SASS files do the following:
 #
 #     @import "compass/css3/font-face"
-#     @include font-face("Blooming Grove", font-files("bgrove.ttf", "examples/bgrove.otf"));
+#     @include font-face("Blooming Grove", font-files("bgrove.ttf", "bgrove.otf"));
 #
 #    .example {
 #      font-family: "Blooming Grove";
